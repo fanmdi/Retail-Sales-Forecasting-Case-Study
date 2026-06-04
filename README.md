@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fanmdi/Retail-Sales-Forecasting-Case-Study/blob/main/Retail_Sales_Forcasting_Case_Study.ipynb)
+
 # Retail-Sales-Forecasting-Case-Study
 End-to-end retail sales forecasting using Prophet and Random Forest with synthetic Australian retail data.
 [Open in Google Colab](https://colab.research.google.com/drive/16Q9JYv8Lj-RKjaq0B0ojDIoOaI5gmY3k?usp=sharing)
